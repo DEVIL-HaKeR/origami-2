@@ -1,0 +1,15 @@
+h1{
+    color: rgb(5, 109, 109);
+}
+.header{
+background-color: rgb(64, 66, 66);
+}
+body{
+    background-color: rgb(62, 106, 119);
+}
+a:link{
+    color: rgb(151, 132, 20);
+}
+a:visited{
+    color: rgb(151, 132, 20);
+}
